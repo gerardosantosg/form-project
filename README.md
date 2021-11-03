@@ -1,3 +1,6 @@
+Para realizar este proyecto decidí dividir el formulario en 5 diferentes secciones. Las secciones son: datos generales, datos de domicilio, datos bancarios, datos de contacto, datos del representante legal y datos bancarios. Para que la apariencia de el formulario fuera mejor utilicé la librería de react-bootstrap. Para poder pasar a la siguiente página se verifica que todos los campos hayan sido completados. Adicionalmente utilicé el paquete de react-router-dom para tener urls distintas para cada una de las secciones del formulario.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
